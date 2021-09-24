@@ -1,0 +1,7 @@
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\bin\Debug\TapsiriqC.exe.config
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\bin\Debug\TapsiriqC.exe
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\bin\Debug\TapsiriqC.pdb
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\obj\Debug\TapsiriqC.csprojAssemblyReference.cache
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\obj\Debug\TapsiriqC.csproj.CoreCompileInputs.cache
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\obj\Debug\TapsiriqC.exe
+C:\Users\nando\Source\Repos\TapsiriqC\TapsiriqC\obj\Debug\TapsiriqC.pdb
